@@ -1,0 +1,22 @@
+;Variable;Coeficiente
+0;bias;-2282,7535059213933
+1;Turbine temperature (T5)  #9;-5,423759218809938
+2;Main manifold gas fuel pressure;659,5481323982616
+3;Compressor Inlet air temperature (T1);-27,10034740760715
+4;Temperatura entrada aire antes el enfriador;3,8437040852702182
+5;Compressor outlet air pressure (PCD);98,02466706812038
+6;Presion diferencial segunda etapa filtro aire;-49,14920175811126
+7;Turbine temperature (T5)  #2;5,5133458868947685
+8;Lube Oil temperature;3,1255375781426693
+9;Gas fuel pressure;-17,729155856502302
+10;Container temperature;-4,213536514907375
+11;Pilot manifold gas fuel pressure;206,99985385360577
+12;Presion diferencial primera etapa filtro aire;4,9118658274513365
+13;Turbine Hours;-0,0368241825193536
+14;Temperatura entrada aire despues el enfriador;2,5326045491805367
+15;T7 average used for control;-77,29637240654822
+16;Turbine exhaust temperature (T7 #1);-18,746973518746756
+17;Turbine exhaust temperature (T7 #3);27,56037497616021
+18;Turbine exhaust temperature (T7);31,257650299037813
+19;Turbine exhaust temperature (T7 #2);44,833686604328314
+20;Outside ambient pressure (P0);-2,0278846419087415

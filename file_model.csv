@@ -1,0 +1,22 @@
+Variable;Coeficiente
+Inlet air filter differential pressure;7,166239664903908
+Presion diferencial primera etapa filtro aire;11,661974856995466
+Presion diferencial total filtro aire;-8,357682620779705
+Compressor outlet air pressure (PCD);59,97834338890921
+BAM monitoring: Rumble;1,1879087195237235
+Main manifold gas fuel pressure;-82,77398562428468
+Outside ambient pressure (P0);8,768426873296313
+Pilot manifold gas fuel pressure;907,2630091345414
+Container temperature;0,8941890983917804
+Turbine temperature (T5)  #1;13,438914909700827
+Turbine temperature (T5)  #12;-9,436219948994903
+Turbine temperature (T5)  #2;6,9466014636790305
+Turbine temperature (T5)  #5;1,8819177698382532
+Turbine temperature (T5)  #6;-5,388388494403586
+Turbine temperature (T5)  #7;25,26970338106257
+Turbine temperature (T5)  #9;24,794493925188277
+Compressor Inlet air temperature (T1);-24,970551669209087
+Turbine exhaust temperature (T7 #2);-33,09324567591709
+Compensated T5 average;-24,94260092678377
+Turbine Hours;0,030314751819588537
+bias;-15815,34485361103

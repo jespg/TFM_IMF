@@ -1,0 +1,129 @@
+Date
+APPARENT POWER
+CURRENT (Average)
+CURRENT R
+CURRENT S
+CURRENT T
+FREQUENCY
+ACTIVE POWER (3710 ACM)
+Factor de Potencia del Generador
+REACTIVE POWER
+VOLTAGE R-S
+VOLTAGE S-T
+VOLTAGE T-R
+110V DC
+24 V DC
+Emergency Pump Current (110Vdc)
+IGV Feedback
+SBV Feedback
+Gas fuel metering valve feedback (Main)
+Gas fuel metering valve feedback (Pilot)
+Humedad entrada aire
+Generator excitation current
+Active power
+Starter motor current
+Starter motor speed #1
+Starter motor speed #2
+SRS answer
+SRS Gas concentration 1
+SRS Gas concentration 2
+SRS Gas concentration 3
+SRS Speed
+SRS T5 temperature
+Turbine bearing #1 vibrations (X)
+Turbine bearing #1 vibrations (Y)
+Turbine bearing #1 vibrations (Z)
+Turbine bearing #2 vibrations (X)
+Turbine bearing #2 vibrations (Y)
+Turbine bearing #3 vibrations (X)
+Turbine bearing #3 vibrations (Y)
+Turbine casing vibration (flame vibration)
+Gearbox casing vibration (Y)
+Generator bearing vibration (Y)
+Synchronization SPM signal
+Starting motor 1 temperature
+Starting motor 2 temperature
+Turbine bearing #2 and #3 oil drain temp.
+Turbine bearing #1 temperature
+Generator L1 Winding temperature
+Generator L2 Winding temperature
+Generator L3 Winding temperature
+Generator DE bearing temperature
+Generator NDE bearing temperature
+Internal air temperature (baseframe module)
+Internal air temperature (client module)
+Internal air temperature (control panel)
+Internal air temperature (gas module)
+Internal air temperature (lube oil module)
+Internal temperature ( Vibration Box)
+Internal air temperature (roof module)
+Internal air temperature (turbine module)
+Potencia Reactiva Pedida en la Interconexion
+Potencia Reactiva en la Interconexion
+Ask for SRS
+Compressor inlet guide vanes actuator
+SBV actuator
+Lube oil governor actuator (%closed)
+Compressor outlet air pressure (PCD).1
+Active power.1
+SFC Drive Control signal
+Turbine speed
+Shutdown Counter
+Start Counter
+Turbine Speed used for control
+Turbine Speed pickup 1
+Turbine Speed pickup 2
+BV FB corrected
+Development fuel demand
+Gas/Liq fuel ratio
+Gas Pilot/main fuel ratio
+IGV corrected feedback
+IGV controller setpoint
+Kw governor fuel demand
+kW control setpoint
+Liquid Pilot/main fuel ratio
+Lube oil Pressure controller setpoint
+Main Gas valve corrected FB
+Main gas fuel demand
+Main gas valve setpoint
+Main Liquid valve corrected FB
+Main liquid fuel demand
+Main liquid valve setpoint
+Max fuel scheduel fuel demand
+Min fuel scheduel fuel demand
+NGP governor fuel demand
+NGP governor setpoint
+NGP Speed setpoint
+Pilot Gas valve corrected FB
+Pilot gas fuel demand
+Pilot gas valve setpoint
+Pilot Liquid valve corrected FB
+Pilot liquid fuel demand
+Pilot liquid valve setpoint
+Starter motor setpoint
+Start fuel controller fuel demand
+T1 corrected NGP
+T5 limiter fuel demand
+T5 limiter setpoint
+T5 #10 compensated
+T5 #11 compensated
+T5 #12 compensated
+T5 #1 compensated
+T5 #2 compensated
+T5 #3 compensated
+T5 #4 compensated
+T5 #5 compensated
+T5 #6 compensated
+T5 #7 compensated
+T5 #8 compensated
+T5 #9 compensated
+Final control fuel demand
+Gas fuel fired hours
+Gearbox hours
+Liquid fuel fired hours
+Package hours
+Water injection hours
+REACTIV ENERGY
+ACTIV ENERGY
+Dates_F
+Power setpoint
