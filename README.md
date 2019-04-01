@@ -63,3 +63,5 @@ Estos mismos datos son pasados a formato json, enviados a MongoDB y mediante una
 El código se recoge en el Script ModDL.py, que contiene las funciones.
 
 8. Por último realizamos un analsis, mediante machine learning basado en las condiciones ambientales. 
+
+La memoria del TFM se presenta en el fichero TFM-comprimido.pdf
