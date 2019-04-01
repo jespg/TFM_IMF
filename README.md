@@ -35,8 +35,8 @@ Lista de Ficheros del Repositorio.
   - ModReg_TG:CCA.py. Contiene las funciones para la adecuacion de los dataset y el entrenamiento del modelo basado en condiones ambientales.
   - TempBH.py, algoritmo de cálculo iterativo para obtener la Temperatura de Bulbo húmedo.
   
-  - Ficheros .twb, libros para la visualición tableau.
-    - Mod_TG_TBM.twb, Conectado a la fuente de datos la base de datos TG_DB de MongoDB
+- Ficheros .twb, libros para la visualición tableau.
+  - Mod_TG_TBM.twb, Conectado a la fuente de datos la base de datos TG_DB de MongoDB
   
 1.Obtenemos desde el Scada un año de datos de procesos del funcionamiento de una turbina de gas. “TBM_data.csv”. Este  fichero consta de 169 variables y más de 10.000 registros.
 
