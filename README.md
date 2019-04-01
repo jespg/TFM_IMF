@@ -33,6 +33,7 @@ Lista de Ficheros del Repositorio.
   - ModDL.py. Contiene las funciones para el test del modelo, registro y almacenamiento de los indicadores del modelo
   - ModReg_TG.py. Contiene las funciones para la adecuacion de los dataset y el entrenamiento del modelo
   - ModReg_TG:CCA.py. Contiene las funciones para la adecuacion de los dataset y el entrenamiento del modelo basado en condiones ambientales.
+  - TempBH.py, algoritmo de cálculo iterativo para obtener la Temperatura de Bulbo húmedo.
   
 1.Obtenemos desde el Scada un año de datos de procesos del funcionamiento de una turbina de gas. “TBM_data.csv”. Este  fichero consta de 169 variables y más de 10.000 registros.
 
